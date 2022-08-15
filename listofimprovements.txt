@@ -1,0 +1,9 @@
+list of improvements
+1)the code is not organized enough
+2)when u convert midi file to a pianoroll, are the dimensions the same 
+3)Ignore warnings to make code cleaner 
+4)the video file is basically unprocessed. To process it, use the instructions on this paper- 
+https://silo.tips/download/tracking-the-guitarist-s-fingers-as-well-as-recognizing-pressed-chords-from-a-vi
+5)figure out how to acc get the output to midi 
+6) the dataset that the model was trained on to convert mp3 to midi, was trained on piano notes. 
+If you could change the tone of the notes to sound more guitaresque, then the model trained would be a lot more accutate than it is rn
